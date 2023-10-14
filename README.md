@@ -17,7 +17,7 @@
 - Fixed Privnote Sniper
 - More info about Sniped Nitro
 - Added Webhook notifications (Thanks to [@banxit](https://github.com/banxit))
-- More customisability
+- More customisability 
 - Added **use on alt**, that means you can run sniper on alt account and if he snipes nitro, code will be reedemed on other account
 - Removed some useless code
 - If you have enable nitro reedem on other account or delay, it will show you on main page
