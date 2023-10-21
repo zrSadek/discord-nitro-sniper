@@ -14,7 +14,7 @@
 ## News in v2:
 - Added giveaway join delay
 - Added Support to more giveaway bots
-- Fixed Privnote Sniper
+- Fixed Privnote Sniper 
 - More info about Sniped Nitro
 - Added Webhook notifications (Thanks to [@banxit](https://github.com/banxit))  
 - More customisability 
